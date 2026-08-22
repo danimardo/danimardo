@@ -13,7 +13,8 @@
   <a href="https://mardomingo.com/es"><strong>Web</strong></a> ·
   <a href="https://mardomingo.com/es/portfolio">Portfolio</a> ·
   <a href="https://mardomingo.com/es/blog">Blog</a> ·
-  <a href="https://mardomingo.com/es/contact">Contacto</a>
+  <a href="https://mardomingo.com/es/contact">Contacto</a> ·
+  <a href="https://www.instagram.com/danimardo">Instagram</a>
 </p>
 
 ## Hola, soy Daniel
@@ -87,4 +88,5 @@ OpenObserve           almacenamiento y consulta de logs
 ## ¿Hablamos?
 
 Si necesitas construir, modernizar o entender una solución técnica, puedes
-conocer mejor mi trabajo en **[mardomingo.com](https://mardomingo.com/es)**.
+conocer mejor mi trabajo en **[mardomingo.com](https://mardomingo.com/es)** o
+encontrarme en **[Instagram](https://www.instagram.com/danimardo)**.
