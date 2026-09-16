@@ -43,6 +43,7 @@ remain diagnosable and are documented for both people and AI agents.
 
 | Proyecto | Qué resuelve | Tecnologías |
 | --- | --- | --- |
+| [**SmartDisk Monitor**](https://github.com/danimardo/smartdisk-monitor) | Vigila la salud de los discos en Windows —temperatura, SMART, actividad y alertas— en tiempo real y sin enviar nada a la nube por defecto. | Svelte 5 · Tauri 2 · Rust |
 | [**MCP Log Gateway**](https://github.com/danimardo/mcp-openobserve) | Permite que agentes como Codex, Claude o Gemini consulten y correlacionen logs sin recibir credenciales maestras de OpenObserve. | TypeScript · MCP · Zod |
 | [**Log Gateway API**](https://github.com/danimardo/api-openobserve) | Centraliza, valida, normaliza y protege el envío y consulta de logs de múltiples aplicaciones. | TypeScript · OpenObserve · Prometheus |
 | [**Play Ondas**](https://github.com/danimardo/play-ondas-app) | Aplicación de escritorio offline con sonidos ambientales para concentración, relajación y descanso. | Svelte 5 · Tauri 2 · Rust |
@@ -90,3 +91,33 @@ OpenObserve           almacenamiento y consulta de logs
 Si necesitas construir, modernizar o entender una solución técnica, puedes
 conocer mejor mi trabajo en **[mardomingo.com](https://mardomingo.com/es)** o
 encontrarme en **[Instagram](https://www.instagram.com/danimardo)**.
+
+## Aplicaciones de escritorio, en imágenes
+
+De los proyectos de arriba, estos tres tienen interfaz propia. Cada captura es la que ya vive en
+su propio repositorio.
+
+### [SmartDisk Monitor](https://github.com/danimardo/smartdisk-monitor)
+
+Supervisión local de la salud de los discos en Windows: temperatura, SMART, actividad y alertas
+correlacionadas con el registro de eventos de Windows, sin enviar nada a la nube por defecto.
+Incluye benchmark de rendimiento, informes exportables y comprobación opcional de actualizaciones
+firmadas.
+
+<img src="https://raw.githubusercontent.com/danimardo/smartdisk-monitor/main/docs/screenshots/panel-general-claro.png" alt="Panel general de SmartDisk Monitor" width="720">
+
+### [Play Ondas](https://github.com/danimardo/play-ondas-app)
+
+Reproductor de escritorio de ondas cerebrales y sonidos ambientales para concentración, relajación
+y descanso. Los audios se descargan una vez, en el primer arranque, y desde entonces funciona
+completamente sin red.
+
+<img src="https://raw.githubusercontent.com/danimardo/play-ondas-app/main/play-ondas-app-design/assets/screenshots/01-main-light.png" alt="Pantalla principal de Play Ondas" width="720">
+
+### [Secretario AI](https://github.com/danimardo/secretario2)
+
+Grabación de voz y transcripción automática con IA para profesionales: dicta notas, correos o
+mensajes y los convierte al instante en texto redactado, con dictado global desde segundo plano y
+mejora de estilo mediante LLM.
+
+<img src="https://raw.githubusercontent.com/danimardo/secretario2/master/docs/screenshots/ventana-principal.png" alt="Ventana principal de Secretario AI" width="720">
