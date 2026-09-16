@@ -122,3 +122,12 @@ mensajes y los convierte al instante en texto redactado, con dictado global desd
 mejora de estilo mediante LLM.
 
 <img src="https://raw.githubusercontent.com/danimardo/secretario2/master/docs/screenshots/ventana-principal.png" alt="Ventana principal de Secretario AI" width="720">
+
+### [Play Ondas app 2.0](https://github.com/danimardo/play-ondas-app-2.0) *(repositorio privado)*
+
+Reescritura completa de Play Ondas en Kotlin Multiplatform + Compose Multiplatform: misma
+interfaz para Android, iOS y Windows. Diez ondas cerebrales y ruidos ambientales en bucle, audio
+personalizable por categoría, temporizador de apagado con fundido y reproducción en segundo plano,
+funcionando sin conexión salvo para la descarga inicial de los sonidos.
+
+<img src="assets/play-ondas-app-2-0-now-playing.png" alt="Reproducción en Play Ondas app 2.0" width="720">
