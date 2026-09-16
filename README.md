@@ -113,7 +113,7 @@ Reproductor de escritorio de ondas cerebrales y sonidos ambientales para concent
 y descanso. Los audios se descargan una vez, en el primer arranque, y desde entonces funciona
 completamente sin red.
 
-<img src="https://raw.githubusercontent.com/danimardo/play-ondas-app/main/play-ondas-app-design/assets/screenshots/01-main-light.png" alt="Pantalla principal de Play Ondas" width="720">
+<img src="https://raw.githubusercontent.com/danimardo/play-ondas-app/main/play-ondas-app-design/assets/screenshots/02-main-dark.png" alt="Pantalla principal de Play Ondas en modo oscuro" width="720">
 
 ### [Secretario AI](https://github.com/danimardo/secretario2)
 
