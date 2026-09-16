@@ -70,6 +70,7 @@ OpenObserve           almacenamiento y consulta de logs
 - Herramientas para agentes de IA mediante **Model Context Protocol**.
 - Logging y observabilidad con seguridad y privacidad por diseño.
 - Aplicaciones de escritorio con **Svelte, Tauri, Rust y Electron**.
+- Aplicaciones móviles multiplataforma.
 - Automatización de infraestructura y operaciones.
 - Productos técnicos centrados en utilidad y mantenibilidad.
 
